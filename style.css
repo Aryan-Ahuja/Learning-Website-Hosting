@@ -1,0 +1,19 @@
+p{
+    text-align:center;
+}
+
+hr{
+    width:400px;
+    border:1px solid black; 
+}
+.button{
+    height: 40px;
+    widows: 60px;
+    box-shadow:4px 5px  gray;
+}
+.text{
+
+text-shadow:3px 3px gray
+
+}
+
